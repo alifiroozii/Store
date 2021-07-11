@@ -1,0 +1,65 @@
+html{
+  background-color: #e1e4eb;
+  font-family: 'A Iranian Sans' !important;
+ 
+}
+
+.App {
+  text-align: center;
+  background-color: #e1e4eb;
+}
+
+.headertext{
+  font-size: xx-small;
+}
+
+.topHeader{
+  border-radius: 25px !important;
+  -webkit-border-radius: 25px !important;
+  -moz-border-radius: 25px !important;
+  -ms-border-radius: 25px !important;
+  -o-border-radius: 25px !important;
+}
+
+.content{
+  background-color: #919399 !important;
+  border-radius: 25px !important;
+}
+
+.secondHeder{
+  background-color: #f3edc9 !important;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.headersecondtext{
+  
+    font-size: 7px !important;
+    margin-top: 1px !important;
+  
+}
+
+.adver{
+  background-color: white !important;
+ 
+}
+img {
+  max-width: 100%;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+.adversub{
+  background-color: rgb(240, 233, 168) !important;
+
+}
+.adcontent{
+  border-radius:10px !important;
+  
+}
+
+.text{
+  font-size: xx-small;
+}
