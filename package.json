@@ -17,7 +17,7 @@
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
     "react-gitignore": "^1.0.12",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.30.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
